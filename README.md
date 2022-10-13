@@ -10,9 +10,9 @@ This project was created for the Lush QA Developer Co-op technical Challenge. It
 4. Run 'node index.js'
 
 ### Credits
-[Puppeteer Documentation](https://pptr.dev/)
-[Solution for Modals](https://stackoverflow.com/questions/55258562/puppeteer-close-javascript-alert-box)
-[For timer promise](https://pptr.dev/api/puppeteer.page.waitfortimeout/) [+](https://stackoverflow.com/questions/46919013/puppeteer-wait-n-seconds-before-continuing-to-the-next-line)
+- [Puppeteer Documentation](https://pptr.dev/)
+- [Solution for Modals](https://stackoverflow.com/questions/55258562/puppeteer-close-javascript-alert-box)
+- [For timer promise](https://pptr.dev/api/puppeteer.page.waitfortimeout/) [+](https://stackoverflow.com/questions/46919013/puppeteer-wait-n-seconds-before-continuing-to-the-next-line)
 
 
 Written by Liana Diu on October 13th, 2022
